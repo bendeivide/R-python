@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Estudando a integração do ambiente R e Python
+
+Objetivo: Estudar a integração entre as linguagens [R](http://r-project.org/) e [Python](https://www.python.org/).
+
+## Pacotes que integram a linguagem R e Python
+
+- Pacote [reticulate](https://rstudio.github.io/reticulate/)
+
+## Vídeos sobre o assunto
+
+- Vídeo 1 (Canal: [RStudio](https://www.youtube.com/channel/UC3xfbCMLCw1Hh4dWop3XtHg))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_50yZxOome4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
